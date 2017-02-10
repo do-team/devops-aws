@@ -1,2 +1,5 @@
 # devops-aws
-devops goes aws (issues)
+
+Issue-tracking for devops on aws.
+
+contact @dannola
